@@ -1,4 +1,4 @@
-# rezcamper
+# openSpaces
 
 
 This repo contains code for a camping reservation application that allows you to put in a request for a campsite you are interested in getting an alert for when a site becomes is available. The application monitors the availability status of campsite information gathered from the National Parks API. (insert link here)
